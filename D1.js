@@ -48,7 +48,9 @@ console.log ('esercizio 4', x)
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 myName = ("Frasca")
+console.log('esercizio 5', myName)
 const myName2 = ("test")
+// myName2 = ("test2")
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
